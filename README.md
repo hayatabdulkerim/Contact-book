@@ -1,3 +1,7 @@
+Hayat Abdulkerim
+
+UGR/0826/16
+
 # Contact Management App
 
 A Flutter Contact book application that performs CRUD (Create, Read, Update, Delete) operations using REST API integration. Built with Bloc for state management and Dio for network requests, following a clean and maintainable architecture with proper loading and error handling states.
